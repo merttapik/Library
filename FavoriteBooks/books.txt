@@ -1,0 +1,6 @@
+5,aa,aa,aa,aa,1,2,3,aaa
+6,adsd,dsad,dasdsa,dsadas,1,22,22,ss
+7,sss,sss,sss,sss,2,8,44,ssss
+9,merto,mert,cxzcxcz,czxczxcz,3,2000,22,ss
+10,mertoo,mert,cxzcxcz,czxczxcz,2,2000,88,mdkmlskdskdafskda
+11,mertooo,mert,cxzcxcz,czxczxcz,1,2000,88,gizere götten
